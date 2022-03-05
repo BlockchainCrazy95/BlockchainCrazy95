@@ -3,7 +3,7 @@
 Nice to meet you!
 <br/>
 I'm a ⭐️passionate and 🚀adventurous full-stack developer having vast experience with blockchain technology.
-I can work on various blockchain platforms like Ethereum, Binance Smart Chain, Solana, Polygon, Cardano, etc.
+I can work on various blockchain platforms like Ethereum, Binance Smart Chain, Solana, Polygon, Juno, etc.
 
 <h1 align="center">
   <a href="/">
